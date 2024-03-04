@@ -148,8 +148,9 @@ align-items: center;
     .flex-mid .search-box input{
         width: 100px;
     }
-    .content{
+    .content {
         margin-top: 30px;
+        margin-left: 8%;
     }
     .left-flex .menuBtn{
         width: 15px;
@@ -171,5 +172,8 @@ align-items: center;
     }
     .flex-mid .mic{
         width: 12px;
+    }
+    .sidebar{
+        width: 10%;
     }
   }
